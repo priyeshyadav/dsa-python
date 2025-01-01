@@ -1,1 +1,1 @@
-Pratice for Python DSA.
+#Practise for Python DSA.
